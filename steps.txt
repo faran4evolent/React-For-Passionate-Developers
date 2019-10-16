@@ -1,0 +1,15 @@
+1. create-react-app <project-name>
+2. add bootstrap 4 cdn [for styling - because I'm too lazy to style them nicely]
+3. clean up the code and make a decent project structure
+4. We only need App.js and index.js [with some more cleanup]
+5. add components, pages and data folder
+6. add movies.js in data
+7. implement getMovies function
+8. think about how can we make reusable components to build this app
+9. Add some content in MoviePage component and import it in <App />
+10. Lets build Card and Image with dummy content
+11. Add them in MoviePage
+12. Make it more granular and add content from Bootstrap Card component
+13. fetch Movies in <MoviePage /> component, pass down data and loop it through Cards
+14. Make necessary adjustments
+15. Finish it up !
