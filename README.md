@@ -2,4 +2,4 @@
 
 # Screenshot
 
-![Image description]("./screenshot.png")
+![Finished App](screenshot.png)
